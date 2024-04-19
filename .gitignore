@@ -3,3 +3,5 @@ hellheim_backup_auto-20240407200045.db
 *.db.old
 *.fwl.old
 hellheim_backup_auto-20240407200045.fwl
+helloheim*
+
